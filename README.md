@@ -93,7 +93,7 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-IT-Guy&layout=donut&bg_color=1c1e21&title_color=00e5ff&text_color=e5e5e5&hide_border=true&icon_color=00e5ff" alt="The IT Guy Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-IT-Guy&layout=donut&bg_color=1c1e21&title_color=00e5ff&text_color=e5e5e5&hide_border=true&icon_color=00e5ff&v=1" alt="The IT Guy Top Languages" />
 </p>
 
 ---
