@@ -89,7 +89,7 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-it-guy&theme=dark&background=1c1e21&fire=00e5ff&ring=00e5ff&labels=e5e5e5&dates=00e5ff&sideNums=e5e5e5&sideLabels=e5e5e5&stroke=1c1e21&hide_border=true" alt="the-it-guy's Contribution Streak" />
+  <img src="https://raw.githubusercontent.com/the-it-guy/the-it-guy/output/github-contribution-grid-snake.svg" alt="the-it-guy's Contribution Snake" width="100%" />
 </p>
 
 ---
