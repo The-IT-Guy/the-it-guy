@@ -89,7 +89,11 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/the-it-guy/the-it-guy/output/github-contribution-grid-snake.svg" alt="the-it-guy's Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/The-IT-Guy/The-IT-Guy/output/github-contribution-grid-snake.svg" alt="The IT Guy's Contribution Snake" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-IT-Guy&layout=donut&bg_color=1c1e21&title_color=00e5ff&text_color=e5e5e5&hide_border=true&icon_color=00e5ff" alt="The IT Guy Top Languages" />
 </p>
 
 ---
