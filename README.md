@@ -1,24 +1,32 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=00E5FF&width=900&height=80&lines=Hello,+I'm+Jeff;a.k.a.+The+IT+Guy;Lead+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=00E5FF&width=900&height=80&lines=Hello,+I'm+Jeff;a.k.a.+The+IT+Guy;Lead+Systems+Architect&v=7" alt="Typing SVG" />
 </p>
 
-> **Lead Systems Architect and IT professional** with over a decade of experience designing hardened infrastructure, deploying open-source software stacks, and building robust automation. I focus on creating high-performance, self-hosted, and secure bare-metal architectures.
+```yaml
+jeff@the-it-guy:~$ fastfetch --load-config architect.json
 
-- 🛠️ Currently architecting <kbd>Silhouette OS</kbd>, a custom security-hardened distribution.
-- 🚀 Actively maintaining the <kbd>Windows Debloat Toolkit</kbd> to eliminate systemic telemetry.
-- 🐧 Strongly committed to a Linux-first philosophy and open-source infrastructure.
+   [==========]       jeff@the-it-guy
+   [==========]       ---------------
+   [          ]       OS: Silhouette OS (Custom Security Distro)
+   [==========]       Host: Self-Hosted Bare-Metal Infrastructure
+   [==========]       Uptime: 10+ Years Systems Orchestration
+   [          ]       Kernel: Linux-First / Open-Source Ecosystem
+   [==========]       Shell: Bash / PowerShell / CLI
+   [==========]       AI_Orchestrator: Claude -> ChatGPT -> Gemini
+   [          ]       Mission: Eliminate telemetry & proprietary overhead.
+```
 
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&width=900&height=60&lines=Featured+Projects+%26+Portfolio" alt="Projects Header" />
+  <img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&width=900&height=60&lines=Featured+Projects+%26+Portfolio](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&width=900&height=60&lines=Featured+Projects+%26+Portfolio)" alt="Projects Header" />
 </p>
 
 * <kbd>Custom RMM Architecture</kbd> A bespoke Remote Monitoring and Management (RMM) framework engineered for MSP operations. Built to bypass proprietary licensing overhead while delivering secure endpoint telemetry, silent patch deployment, and automated system remediation across client fleets.
 
 * <kbd>Server Monitoring App</kbd> A fully deployed, real-time telemetry tracking application. Designed to aggregate server health metrics, monitor uptime across distributed nodes, and provide actionable alert orchestration for bare-metal and self-hosted environments.
 
-* <kbd>[Windows Debloat Toolkit](https://github.com/the-it-guy/windows-debloat-toolkit)</kbd> An automated PowerShell scripting framework designed to aggressively strip out telemetry, disable tracking hooks, remove bloatware, and optimize performance across Windows corporate environments.
+* <kbd>[Windows Debloat Toolkit](https://github.com/The-IT-Guy/Windows-11-Debloat)</kbd> An automated PowerShell scripting framework designed to aggressively strip out telemetry, disable tracking hooks, remove bloatware, and optimize performance across Windows corporate environments.
   
 * <kbd>Silhouette OS</kbd> A custom, specialized Linux distribution built on a hardened base, focusing entirely on native system hardening, bare-metal efficiency, and structural privacy.
 
@@ -48,38 +56,38 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
 
 #### Operating Systems & Environments
 <p align="left">
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Arch_Linux-38A3D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/KDE_Plasma_6-1D99F3?style=flat-square&logo=kde&logoColor=white" alt="KDE Plasma 6" />
+  <img src="https://img.shields.io/badge/Fedora-1C1E21?style=flat-square&logo=fedora&logoColor=00E5FF" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1C1E21?style=flat-square&logo=arch-linux&logoColor=00E5FF" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-1C1E21?style=flat-square&logo=ubuntu&logoColor=00E5FF" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/KDE_Plasma_6-1C1E21?style=flat-square&logo=kde&logoColor=00E5FF" alt="KDE Plasma 6" />
 </p>
 
 #### Web Development & Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-1C1E21?style=flat-square&logo=php&logoColor=00E5FF" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-1C1E21?style=flat-square&logo=html5&logoColor=00E5FF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1C1E21?style=flat-square&logo=css3&logoColor=00E5FF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1C1E21?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript" />
 </p>
 
 #### Mobile Application Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-1C1E21?style=flat-square&logo=android&logoColor=00E5FF" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-1C1E21?style=flat-square&logo=kotlin&logoColor=00E5FF" alt="Kotlin" />
 </p>
 
 #### Automation, Scripting & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux_Server-333333?style=flat-square&logo=linux&logoColor=00E5FF" alt="Linux" />
+  <img src="https://img.shields.io/badge/PowerShell-1C1E21?style=flat-square&logo=powershell&logoColor=00E5FF" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bash-1C1E21?style=flat-square&logo=gnu-bash&logoColor=00E5FF" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux_Server-1C1E21?style=flat-square&logo=linux&logoColor=00E5FF" alt="Linux" />
 </p>
 
 #### Network & Security Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/10G_Networking-2A2A2A?style=flat-square&logo=databricks&logoColor=00E5FF" alt="Networking" />
-  <img src="https://img.shields.io/badge/System_Hardening-1A1A1A?style=flat-square&logo=hackthebox&logoColor=E5E5E5" alt="Security" />
-  <img src="https://img.shields.io/badge/Self--Hosted-🛠️-333333?style=flat-square" alt="Self-Hosted" />
+  <img src="https://img.shields.io/badge/10G_Networking-1C1E21?style=flat-square&logo=databricks&logoColor=00E5FF" alt="Networking" />
+  <img src="https://img.shields.io/badge/System_Hardening-1C1E21?style=flat-square&logo=hackthebox&logoColor=00E5FF" alt="Security" />
+  <img src="https://img.shields.io/badge/Self--Hosted-🛠️-1C1E21?style=flat-square&logoColor=00E5FF" alt="Self-Hosted" />
 </p>
 
 ---
@@ -93,7 +101,11 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-IT-Guy&layout=donut&bg_color=1c1e21&title_color=00e5ff&text_color=e5e5e5&hide_border=true&icon_color=00e5ff&v=1" alt="The IT Guy Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-IT-Guy&show_icons=true&bg_color=1c1e21&title_color=00e5ff&text_color=e5e5e5&icon_color=00e5ff&hide_border=true&v=1" alt="The IT Guy Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=The-IT-Guy&theme=dark" alt="The IT Guy Top Languages" />
 </p>
 
 ---
@@ -102,7 +114,9 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&width=900&height=60&lines=Connect+with+Me" alt="Connect Header" />
 </p>
 
-If you'd like to talk systems orchestration, custom Linux themes, open-source infrastructure setups, or high-performance builds, let's connect:
+Let's talk systems orchestration, custom Linux themes, open-source infrastructure setups, or high-performance builds. Let's connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lemonsjeff)
-[![Email](https://img.shields.io/badge/Email-jeff%40calltheitguy.tech-333333?style=flat-square&logo=gmail&logoColor=00E5FF)](mailto:jeff@calltheitguy.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/lemonsjeff](https://linkedin.com/in/lemonsjeff))
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:jeff@calltheitguy.tech)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18303180056)
+```
