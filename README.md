@@ -19,7 +19,7 @@ jeff@the-it-guy:~$ fastfetch --load-config architect.json
 ---
 
 <p align="left">
-  <img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&width=900&height=60&lines=Featured+Projects+%26+Portfolio](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&width=900&height=60&lines=Featured+Projects+%26+Portfolio)" alt="Projects Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&width=900&height=60&lines=Featured+Projects+%26+Portfolio" alt="Projects Header" />
 </p>
 
 * <kbd>Custom RMM Architecture</kbd> A bespoke Remote Monitoring and Management (RMM) framework engineered for MSP operations. Built to bypass proprietary licensing overhead while delivering secure endpoint telemetry, silent patch deployment, and automated system remediation across client fleets.
@@ -101,7 +101,7 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-IT-Guy&show_icons=true&bg_color=1c1e21&title_color=00e5ff&text_color=e5e5e5&icon_color=00e5ff&hide_border=true&v=1" alt="The IT Guy Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=The-IT-Guy&show_icons=true&theme=tokyonight&hide_border=true" alt="The IT Guy Stats" />
 </p>
 
 <p align="left">
@@ -116,7 +116,6 @@ I have engineered a unified **AI Stack**—orchestrating <kbd>Claude</kbd>, <kbd
 
 Let's talk systems orchestration, custom Linux themes, open-source infrastructure setups, or high-performance builds. Let's connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/lemonsjeff](https://linkedin.com/in/lemonsjeff))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lemonsjeff)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:jeff@calltheitguy.tech)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18303180056)
-```
