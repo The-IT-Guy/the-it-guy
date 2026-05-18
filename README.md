@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=00F0FF&width=900&height=80&lines=NEURAL_LINK_ESTABLISHED...;NODE_IDENT:+JEFF;ALIAS:+THE+IT+GUY;SYS_ARCH:+NETRUNNER+CORE&v=14" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF66&width=900&height=80&lines=NEURAL_LINK_ESTABLISHED...;NODE_IDENT:+JEFF;ALIAS:+THE+IT+GUY;SYS_ARCH:+NETRUNNER+CORE&v=17" alt="Typing SVG" />
 </p>
 
 ```yaml
@@ -19,7 +19,7 @@ the-it-guy@plasma-core:~$ matrix-init --harden --load-cluster
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&width=900&height=60&lines=DECRYPTING_TACTICAL_SECTORS...;[SLOT]+SECURE_PORTFOLIO" alt="Projects Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF66&width=900&height=60&lines=DECRYPTING_TACTICAL_SECTORS...;[SLOT]+SECURE_PORTFOLIO" alt="Projects Header" />
 </p>
 
 * <kbd>PHANTOM_RMM // Custom RMM Architecture</kbd> A bespoke Remote Monitoring and Management (RMM) framework engineered for MSP operations. Built to bypass proprietary licensing overhead while delivering secure endpoint telemetry, silent patch deployment, and automated system remediation across client fleets.
@@ -39,7 +39,7 @@ the-it-guy@plasma-core:~$ matrix-init --harden --load-cluster
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&width=900&height=60&lines=SYNCHRONIZING_TRI_CORES...;[LINK]+AI+ORCHESTRATION" alt="AI Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF66&width=900&height=60&lines=SYNCHRONIZING_TRI_CORES...;[LINK]+AI+ORCHESTRATION" alt="AI Stack Header" />
 </p>
 
 I have engineered a unified **AI Core Stack**—orchestrating <kbd>Claude</kbd>, <kbd>ChatGPT</kbd>, and <kbd>Gemini</kbd> into a tri-core neural processing cluster running directly through **CLI terminal environments**. Rather than treating them as isolated nodes, I direct a logical command hierarchy, piping execution context and pipeline telemetry between models to maximize localized computation. 
@@ -51,49 +51,54 @@ I have engineered a unified **AI Core Stack**—orchestrating <kbd>Claude</kbd>,
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&width=900&height=60&lines=ENUMERATING_TOOLKITS...;[DRIVE]+ACTIVE+STACK_MATRIX" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF66&width=900&height=60&lines=ENUMERATING_TOOLKITS...;[DRIVE]+ACTIVE+STACK_MATRIX" alt="Tech Stack Header" />
 </p>
 
 #### Operating Systems & Environments
 <p align="left">
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=fedora&logoColor=00F0FF&v=sys_override_v9" alt="Fedora" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=archlinux&logoColor=00F0FF&v=sys_override_v9" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=ubuntu&logoColor=00F0FF&v=sys_override_v9" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=kde&logoColor=00F0FF&v=sys_override_v9" alt="KDE Plasma 6" />
+  <img src="https://img.shields.io/badge/Fedora-0D1117?style=flat-square&logo=fedora&logoColor=00FF66&v=green_matrix_v2" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=flat-square&logo=archlinux&logoColor=00FF66&v=green_matrix_v2" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=00FF66&v=green_matrix_v2" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/KDE_Plasma-0D1117?style=flat-square&logo=kde&logoColor=00FF66&v=green_matrix_v2" alt="KDE Plasma 6" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows&logoColor=00FF66&v=green_matrix_v2" alt="Windows" />
+  <img src="https://img.shields.io/badge/Android_OS-0D1117?style=flat-square&logo=android&logoColor=00FF66&v=green_matrix_v2" alt="Android" />
 </p>
 
 #### Web Development & Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=php&logoColor=00F0FF&v=sys_override_v9" alt="PHP" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=html5&logoColor=00F0FF&v=sys_override_v9" alt="HTML5" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=css3&logoColor=00F0FF&v=sys_override_v9" alt="CSS3" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=javascript&logoColor=00F0FF&v=sys_override_v9" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00FF66&v=green_matrix_v2" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00FF66&v=green_matrix_v2" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00FF66&v=green_matrix_v2" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF66&v=green_matrix_v2" alt="JavaScript" />
 </p>
 
 #### Mobile Application Development
 <p align="left">
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=android&logoColor=00F0FF&v=sys_override_v9" alt="Android" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=kotlin&logoColor=00F0FF&v=sys_override_v9" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=00FF66&v=green_matrix_v2" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=00FF66&v=green_matrix_v2" alt="Kotlin" />
 </p>
 
-#### Automation, Scripting & Backend
+#### Automation, Scripting & Dev Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=powershell&logoColor=00F0FF&v=sys_override_v9" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=gnubash&logoColor=00F0FF&v=sys_override_v9" alt="Bash" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=linux&logoColor=00F0FF&v=sys_override_v9" alt="Linux" />
+  <img src="https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=00FF66&v=green_matrix_v2" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF66&v=green_matrix_v2" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux_Server-0D1117?style=flat-square&logo=linux&logoColor=00FF66&v=green_matrix_v2" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF66&v=green_matrix_v2" alt="Git" />
+  <img src="https://img.shields.io/badge/SSH-0D1117?style=flat-square&logo=openssh&logoColor=00FF66&v=green_matrix_v2" alt="SSH" />
+  <img src="https://img.shields.io/badge/CLI-0D1117?style=flat-square&logo=gnubash&logoColor=00FF66&v=green_matrix_v2" alt="CLI" />
 </p>
 
 #### Network & Security Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=databricks&logoColor=00F0FF&v=sys_override_v9" alt="Networking" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=hackthebox&logoColor=00F0FF&v=sys_override_v9" alt="Security" />
-  <img src="https://img.shields.io/badge/--0D1117?style=flat-square&logo=homeassistant&logoColor=00F0FF&v=sys_override_v9" alt="Self-Hosted" />
+  <img src="https://img.shields.io/badge/10G_Networking-0D1117?style=flat-square&logo=databricks&logoColor=00FF66&v=green_matrix_v2" alt="Networking" />
+  <img src="https://img.shields.io/badge/System_Hardening-0D1117?style=flat-square&logo=hackthebox&logoColor=00FF66&v=green_matrix_v2" alt="Security" />
+  <img src="https://img.shields.io/badge/Self_Hosted-0D1117?style=flat-square&logo=homeassistant&logoColor=00FF66&v=green_matrix_v2" alt="Self-Hosted" />
 </p>
 
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&width=900&height=60&lines=STREAMING_GRID_TELEMETRY...;[NET]+GITHUB+ECOSYSTEM" alt="Ecosystem Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF66&width=900&height=60&lines=STREAMING_GRID_TELEMETRY...;[NET]+GITHUB+ECOSYSTEM" alt="Ecosystem Header" />
 </p>
 
 <p align="left">
@@ -101,7 +106,7 @@ I have engineered a unified **AI Core Stack**—orchestrating <kbd>Claude</kbd>,
 </p>
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=The-IT-Guy&show_icons=true&title_color=00F0FF&text_color=B3B3B3&icon_color=00F0FF&bg_color=0D1117&hide_border=true" alt="The IT Guy Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=The-IT-Guy&show_icons=true&title_color=00FF66&text_color=B3B3B3&icon_color=00FF66&bg_color=0D1117&hide_border=true" alt="The IT Guy Stats" />
 </p>
 
 <p align="left">
@@ -111,12 +116,12 @@ I have engineered a unified **AI Core Stack**—orchestrating <kbd>Claude</kbd>,
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&width=900&height=60&lines=OPENING_UPLINK_CHANNELS...;[LINK]+COMMS_ESTABLISHED" alt="Connect Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF66&width=900&height=60&lines=OPENING_UPLINK_CHANNELS...;[LINK]+COMMS_ESTABLISHED" alt="Connect Header" />
 </p>
 
 Let's talk systems orchestration, custom Linux themes, open-source infrastructure setups, or high-performance builds. Establish connection:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lemonsjeff)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:jeff@calltheitguy.tech)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00FF66)](mailto:jeff@calltheitguy.tech)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18303180056)
 ```
