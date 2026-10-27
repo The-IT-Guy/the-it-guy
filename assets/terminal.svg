@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360" viewBox="0 0 820 360" role="img" aria-label="Terminal: Jeff Lemons, founder of The IT Guy. Systems and DevOps engineer building SentinelRMM, Nexivo NOC and BidHub.">
+  <title>jeff@theitguy — terminal</title>
+  <style>
+    .bg   { fill: #0D1117; }
+    .bar  { fill: #161B22; }
+    .edge { fill: none; stroke: #30363D; }
+    text  { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #C9D1D9; white-space: pre; }
+    .title  { fill: #8B949E; font-size: 12px; }
+    .prompt { fill: #00E5FF; }
+    .path   { fill: #FF2D78; }
+    .key    { fill: #00E5FF; font-weight: 600; }
+    .dim    { fill: #8B949E; }
+    .ok     { fill: #3FB950; }
+
+    .l { opacity: 1; animation: show 0.01s steps(1, end) both; }
+    .l1 { animation-delay: 0.3s; }  .l2 { animation-delay: 0.9s; }
+    .l3 { animation-delay: 1.3s; }  .l4 { animation-delay: 1.45s; }
+    .l5 { animation-delay: 1.6s; }  .l6 { animation-delay: 1.75s; }
+    .l7 { animation-delay: 1.9s; }  .l8 { animation-delay: 2.05s; }
+    .l9 { animation-delay: 2.2s; }  .l10 { animation-delay: 2.8s; }
+    .l11 { animation-delay: 3.2s; }
+    .cursor { fill: #00E5FF; animation: show 0.01s 3.2s both, blink 1.1s 3.2s steps(1, end) infinite; }
+
+    @keyframes show  { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .l, .cursor { animation: none; } }
+  </style>
+
+  <rect class="bg" x="0.5" y="0.5" width="819" height="359" rx="10"/>
+  <path class="bar" d="M10.5 0.5h799a10 10 0 0 1 10 10v22h-819v-22a10 10 0 0 1 10-10z"/>
+  <rect class="edge" x="0.5" y="0.5" width="819" height="359" rx="10"/>
+  <circle cx="22" cy="17" r="6" fill="#FF5F57"/>
+  <circle cx="42" cy="17" r="6" fill="#FEBC2E"/>
+  <circle cx="62" cy="17" r="6" fill="#28C840"/>
+  <text class="title" x="410" y="21" text-anchor="middle">jeff@theitguy: ~</text>
+
+  <text class="l l1" x="28" y="70"><tspan class="prompt">jeff@theitguy</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan> whoami --verbose</text>
+
+  <text class="l l2" x="28" y="104">Jeff Lemons <tspan class="dim">·</tspan> founder, The IT Guy <tspan class="dim">·</tspan> New Braunfels, TX</text>
+  <line class="l l2" x1="28" y1="118" x2="560" y2="118" stroke="#30363D" stroke-width="1"/>
+
+  <text class="l l3" x="28" y="146"><tspan class="key">role</tspan><tspan x="128">Systems &amp; DevOps engineer, 10+ years in IT</tspan></text>
+  <text class="l l4" x="28" y="170"><tspan class="key">os</tspan><tspan x="128">Fedora · Arch · Ubuntu · Windows Server · Android</tspan></text>
+  <text class="l l5" x="28" y="194"><tspan class="key">shell</tspan><tspan x="128">bash · PowerShell · Python</tspan></text>
+  <text class="l l6" x="28" y="218"><tspan class="key">stack</tspan><tspan x="128">FastAPI · PostgreSQL · Docker · React · Kotlin/Compose</tspan></text>
+  <text class="l l7" x="28" y="242"><tspan class="key">network</tspan><tspan x="128">WireGuard · hardening · self-hosted everything</tspan></text>
+  <text class="l l8" x="28" y="266"><tspan class="key">building</tspan><tspan x="128">SentinelRMM · Nexivo NOC · BidHub</tspan></text>
+  <text class="l l9" x="28" y="290"><tspan class="key">status</tspan><tspan x="128"><tspan class="ok">●</tspan> open to consulting &amp; full-time roles</tspan></text>
+
+  <text class="l l11" x="28" y="330"><tspan class="prompt">jeff@theitguy</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan></text>
+  <rect class="cursor" x="182" y="316" width="9" height="18"/>
+</svg>
